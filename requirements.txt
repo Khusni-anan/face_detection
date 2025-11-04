@@ -1,8 +1,8 @@
-streamlit
-tensorflow-cpu
-scikit-learn
-joblib
-opencv-python-headless
-numpy
-Pillow
-streamlit-webrtc
+streamlit==1.33.0
+tensorflow-cpu==2.16.1
+scikit-learn==1.4.2
+joblib==1.4.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+streamlit-webrtc==0.47.0
