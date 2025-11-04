@@ -136,7 +136,7 @@ class EmotionTransformer(VideoTransformerBase):
             # Tulis teks emosi
             cv2.putText(img, text, (x + 5, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 0), 2)
             
-        # 8. Kembalikan frame yang sudah dimodifikasi
+        # 8. Kembalikan frame yang sudah dimodifikasi (DI LUAR LOOP FOR)
         return frame.from_ndarray(img, format="bgr24")
 
 # --- 6. Tampilan Utama (Main UI) ---
