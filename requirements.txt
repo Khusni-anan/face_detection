@@ -5,3 +5,4 @@ joblib
 opencv-python-headless
 numpy
 Pillow
+streamlit-webrtc
