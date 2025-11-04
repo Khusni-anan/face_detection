@@ -1,0 +1,21 @@
+# Folder dataset (JANGAN UPLOAD DATASET KE GITHUB)
+CK+48/
+ckplus_data/
+CK+48.zip
+ckplus.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
